@@ -21,7 +21,7 @@ import javax.swing.border.Border;
 public abstract class ChatWindow extends JFrame implements ActionListener{
 	
 	protected JButton undoButton, redoButton;
-    protected JTextArea dialogueArea;
+        protected JTextArea dialogueArea;
 	protected JTextField messageField;
 	
 	public ChatWindow() {
