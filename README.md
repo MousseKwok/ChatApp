@@ -2,6 +2,5 @@
 
 Co-developed by Xijie Guo and Lu Shao
 
-Communications between users are via Socket model over TCP. Added functions are allowing users to 
-recall and redo messages in limited times.
+Online conversations between users are via Socket model over TCP. Users are allowed to recall sent messages and redo recalled messages in a consecutively limited times.
 
